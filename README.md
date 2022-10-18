@@ -7,7 +7,7 @@ Run solution_bfs.py
 Do you want to enter manually enter 1 or otherwise default matrice will be used
 
 if 1:
-Enter matrice and time accordingly will be computer
+Enter matrice and time accordingly will be computed
 
 
 if any other number
